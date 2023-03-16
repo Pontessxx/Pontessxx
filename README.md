@@ -1,5 +1,5 @@
 ### Ola meu nome é Henrique Pontes
-Cursando Engenharia de Software na FIAP, 
+Cursando Engenharia de Software.
 - 👨🏻‍💻 Desenvolvendo novas skills com **projetos pessoais e da daculdade**;
 - Apaixonado por adquirir novos conhecimentos;
 - 🖥️ Atualmente estudando e projetando em:
