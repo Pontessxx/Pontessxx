@@ -4,8 +4,8 @@ Cursando Engenharia de Software na FIAP,
 - Apaixonado por adquirir novos conhecimentos;
 - 🖥️ Atualmente estudando e projetando em:
 <div display="inline">
-  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/>&nbsp;&nbsp;
-  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="55"/>&nbsp;&nbsp;
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50 />&nbsp;&nbsp;
 </div>
