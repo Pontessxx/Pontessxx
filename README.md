@@ -1,6 +1,6 @@
 ### Ola meu nome é Henrique Pontes
 Cursando Engenharia de Software.
-- 👨🏻‍💻 Desenvolvendo novas skills com **projetos pessoais e da daculdade**;
+- 👨🏻‍💻 Desenvolvendo novas skills com **projetos pessoais e da faculdade**;
 - Apaixonado por adquirir novos conhecimentos;
 - 🖥️ Atualmente estudando e projetando em:
 <div display="inline">
