@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pontessxx&label=Profile%20views&color=550f8f&style=flat-square" alt="pontessxx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pontessxx" alt="pontessxx" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img background=""src="https://github-profile-trophy.vercel.app/?username=pontessxx" alt="pontessxx" /></a> </p>-->
 
 - 🌱 I’m currently learning **Front-end and Back-end, I really like code in back end and learning more of Big Data Analitics**
 
