@@ -30,7 +30,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pontessxx&show_icons=true&count_private=true&hide_border=true&title_color=307fbb&icon_color=307fbb&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pontessxx&layout=compact&hide_border=true&title_color=307fbb&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-<div aling="center"
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pontessxx&bg_color=0d1117&color=4c709e&line=307fbb&point=307fbb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ![snake gif](https://github.com/Pontessxx/Pontessxx/blob/output/github-contribution-grid-snake.gif)-->
